@@ -546,3 +546,23 @@ Santa Monica, California 90401
 2017-04-14 12:33:18,989 [main] INFO main.java.pageObjects.PersonalInfo - Enter Credit Application: Personal Information
 2017-04-14 12:33:43,472 [main] INFO test.java.TestBaseSetup - shutting down driver
 2017-04-14 12:33:43,743 [main] INFO test.java.TestBaseSetup - Closing Driver
+2017-04-14 12:44:30,926 [main] INFO test.java.TestBaseSetup - Setting browser: chrome
+2017-04-14 12:44:30,952 [main] INFO test.java.TestBaseSetup - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:44:30,952 [main] INFO test.utils.CommonUtils - Launching Chrome browser..
+2017-04-14 12:44:45,284 [main] INFO test.utils.CommonUtils - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 12:44:45,343 [main] INFO test.utils.CommonUtils - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 12:44:52,757 [main] INFO test.java.TestBaseSetup - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:44:52,869 [main] INFO main.java.pageObjects.VehiclePage - Verifying Login Page Title
+2017-04-14 12:44:52,897 [main] INFO test.utils.CommonUtils - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 12:44:52,903 [main] INFO main.java.pageObjects.VehiclePage - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 12:44:52,906 [main] INFO main.java.pageObjects.VehiclePage - Selecting a Vehicle Make: MERCEDES-BENZ
+2017-04-14 12:44:53,375 [main] INFO main.java.pageObjects.VehiclePage - Clicking: MERCEDES-BENZ
+2017-04-14 12:44:53,542 [main] INFO main.java.pageObjects.ModelPage - Selecting a Vehicle Model: CLA
+2017-04-14 12:44:54,528 [main] INFO main.java.pageObjects.ModelPage - Clicking: CLA
+starting at
+$32,400 MSRP
+2017-04-14 12:44:54,687 [main] INFO main.java.pageObjects.TrimPage - Selecting a Vehicle Trim
+2017-04-14 12:44:55,204 [main] INFO main.java.pageObjects.TrimPage - Clicking: CLA250 Coupe
+$403 /mo*
