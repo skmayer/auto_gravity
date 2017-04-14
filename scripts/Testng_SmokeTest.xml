@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Auto Gravity UI Automation">
+<parameter name="appURL" value="https://apply.autogravity.com/vehicle"/>
+<parameter name="browserType" value="chrome"/>
+  <test name="Smoke Test">
+    <groups>
+    <run>
+      <include name="autoGravity"/>
+    </run>
+  </groups>
+    <classes>
+      <class name="com.autogravity.ui.test.Steps"/>
+    </classes>
+  </test>
+</suite>

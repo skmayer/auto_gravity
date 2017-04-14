@@ -1,0 +1,548 @@
+2017-04-14 11:48:57,038 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:48:57,047 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:48:57,048 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:48:57,206 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 11:48:57,208 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:48:57,224 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:48:57,229 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:48:57,391 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:48:57,392 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:48:57,404 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:48:57,412 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:48:57,415 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:48:57,416 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 11:48:57,423 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:48:57,424 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:48:57,433 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:48:57,444 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:48:57,445 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:48:57,477 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:48:57,478 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:48:57,478 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:48:57,479 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 11:48:57,481 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:48:57,481 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:48:57,482 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:48:57,534 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:48:57,535 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:52:34,414 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:52:34,435 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:52:34,435 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:52:34,633 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@a37aefe
+2017-04-14 11:52:34,658 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:52:34,673 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:52:34,677 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:52:34,724 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:52:34,724 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:52:34,736 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:52:34,737 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:52:34,737 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:52:34,739 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@44a59da3
+2017-04-14 11:52:34,741 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:52:34,746 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:52:34,756 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:52:34,787 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:52:34,787 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:52:34,797 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:52:34,797 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:52:34,798 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:52:34,799 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@404bbcbd
+2017-04-14 11:52:34,800 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:52:34,800 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:52:34,801 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:52:34,808 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:52:34,809 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:54:20,056 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:54:20,081 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:54:20,082 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:54:20,225 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 11:54:20,235 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:54:20,299 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:54:20,314 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:54:20,353 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:54:20,355 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:54:20,369 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:54:20,370 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:54:20,370 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:54:20,372 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 11:54:20,374 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:54:20,374 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:54:20,396 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:54:20,408 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:54:20,409 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:54:20,426 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:54:20,426 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:54:20,426 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:54:20,432 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 11:54:20,433 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:54:20,433 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:54:20,434 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:54:20,445 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:54:20,446 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:54:32,527 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:54:32,535 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:54:32,536 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:54:32,883 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 11:54:32,902 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:54:32,912 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:54:32,915 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:54:32,938 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:54:32,939 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:54:32,967 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:54:32,969 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:54:32,969 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:54:32,992 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 11:54:32,994 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:54:32,994 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:54:33,013 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:54:33,035 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:54:33,036 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:54:33,050 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:54:33,051 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:54:33,051 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:54:33,052 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 11:54:33,053 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:54:33,054 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:54:33,054 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:54:33,078 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:54:33,079 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:57:50,016 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:57:50,022 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:57:50,023 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:57:50,153 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 11:57:50,163 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:57:50,175 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:57:50,183 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:57:50,213 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:57:50,214 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:57:50,230 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:57:50,230 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:57:50,230 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:57:50,240 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 11:57:50,243 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:57:50,260 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:57:50,267 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:57:50,301 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:57:50,316 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:57:50,327 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:57:50,328 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:57:50,328 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:57:50,335 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 11:57:50,337 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:57:50,337 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:57:50,338 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:57:50,353 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:57:50,354 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:59:24,255 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:59:24,261 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:59:24,261 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:59:24,505 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 11:59:24,509 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:59:24,520 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:59:24,522 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:59:24,548 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:59:24,549 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:59:24,554 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:59:24,556 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:59:24,557 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:59:24,565 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 11:59:24,566 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:59:24,566 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:59:24,599 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:59:24,614 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:59:24,636 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 11:59:24,650 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 11:59:24,650 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 11:59:24,651 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 11:59:24,652 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 11:59:24,653 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 11:59:24,654 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 11:59:24,654 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 11:59:24,673 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 11:59:24,676 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:00:57,208 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:00:57,216 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:00:57,217 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:00:57,437 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:00:57,440 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:00:57,465 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:00:57,472 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:00:57,489 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:00:57,491 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:00:57,500 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:00:57,505 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:00:57,506 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:00:57,512 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:00:57,513 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:00:57,513 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:00:57,520 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:00:57,537 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:00:57,539 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:00:57,566 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:00:57,566 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:00:57,567 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:00:57,568 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:00:57,570 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:00:57,570 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:00:57,571 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:00:57,598 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:00:57,598 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:01:50,337 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:01:50,349 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:01:50,350 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:01:50,565 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:01:50,584 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:01:50,599 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:01:50,602 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:01:50,677 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:01:50,678 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:01:50,688 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:01:50,689 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:01:50,689 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:01:50,692 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:01:50,693 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:01:50,694 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:01:50,705 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:01:50,725 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:01:50,725 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:01:50,735 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:01:50,735 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:01:50,736 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:01:50,743 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:01:50,744 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:01:50,745 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:01:50,746 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:01:50,756 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:01:50,757 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:03:45,345 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:03:45,353 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:03:45,354 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:03:45,508 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:03:45,510 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:03:45,513 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:03:45,521 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:03:45,553 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:03:45,554 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:03:45,606 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:03:45,607 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:03:45,608 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:03:45,613 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:03:45,637 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:03:45,637 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:03:45,652 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:03:45,666 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:03:45,667 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:03:45,719 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:03:45,720 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:03:45,720 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:03:45,723 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:03:45,724 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:03:45,725 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:03:45,725 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:03:45,749 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:03:45,751 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:11:42,455 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:11:42,492 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:11:42,493 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:11:42,613 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:11:42,616 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:11:42,664 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:11:42,669 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:11:42,714 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:11:42,714 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:11:42,731 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:11:42,731 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:11:42,756 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:11:42,758 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:11:42,759 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:11:42,759 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:11:42,773 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:11:42,786 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:11:42,787 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:11:42,797 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:11:42,797 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:11:42,798 - utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:11:42,799 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:11:42,807 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:11:42,808 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:11:42,809 - utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:11:42,824 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:11:42,825 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:14:00,659 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:14:00,856 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:14:00,857 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:14:01,044 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:14:01,053 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:14:01,064 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:14:01,067 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:14:01,083 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:14:01,083 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:14:01,090 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:14:01,091 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:14:01,091 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:14:01,094 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:14:01,096 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:14:01,096 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:14:01,101 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:14:01,115 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:14:01,118 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:14:01,131 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:14:01,133 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:14:01,133 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:14:01,136 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:14:01,137 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:14:01,138 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:14:01,138 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:14:01,146 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:14:01,172 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:14:36,916 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:14:36,950 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:14:36,951 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:14:37,207 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:14:37,212 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:14:37,229 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:14:37,240 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:14:37,262 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:14:37,262 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:14:37,273 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:14:37,273 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:14:37,273 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:14:37,276 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:14:37,277 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:14:37,280 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:14:37,285 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:14:37,300 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:14:37,301 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:14:37,308 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:14:37,308 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:14:37,309 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:14:37,310 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:14:37,321 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:14:37,322 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:14:37,322 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:14:37,338 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:14:37,338 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:17:38,109 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:17:38,120 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:17:38,121 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:17:38,367 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:17:38,387 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:17:38,392 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:17:38,400 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:17:38,447 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:17:38,448 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:17:38,457 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:17:38,458 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:17:38,460 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:17:38,468 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:17:38,471 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:17:38,471 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:17:38,490 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:17:38,512 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:17:38,512 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:17:38,539 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:17:38,539 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:17:38,544 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:17:38,545 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:17:38,548 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:17:38,564 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:17:38,568 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:17:38,590 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:17:38,591 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:22:35,530 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:22:35,593 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:22:35,594 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:22:35,746 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c852c0f
+2017-04-14 12:22:35,750 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:22:35,773 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:22:35,800 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:22:35,881 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:22:35,882 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:22:35,904 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:22:35,905 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:22:35,905 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:22:35,917 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@42a15bdc
+2017-04-14 12:22:35,919 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:22:35,924 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:22:35,933 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:22:35,960 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:22:35,981 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:22:36,045 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:22:36,045 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:22:36,050 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:22:36,056 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@379614be
+2017-04-14 12:22:36,058 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:22:36,058 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:22:36,059 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:22:36,067 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:22:36,067 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:25:35,224 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:25:35,252 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:25:35,254 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:25:35,476 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c39680d
+2017-04-14 12:25:35,489 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:25:35,505 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:25:35,508 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:25:35,544 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:25:35,545 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:25:35,558 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:25:35,559 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:25:35,559 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:25:35,561 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@29a5f4e7
+2017-04-14 12:25:35,563 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:25:35,567 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:25:35,567 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:25:35,583 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:25:35,584 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:25:35,600 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:25:35,600 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:25:35,601 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:25:35,602 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1e4d3ce5
+2017-04-14 12:25:35,604 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:25:35,605 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:25:35,605 - test.utils.CommonUtils -INFO - Exception while taking Screen Shot null
+2017-04-14 12:25:35,613 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:25:35,615 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:26:58,481 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:26:58,508 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:26:58,509 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:26:58,758 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c39680d
+2017-04-14 12:26:58,761 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:26:58,768 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:26:58,822 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:26:58,825 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:26:58,847 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:26:58,848 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:26:58,848 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:26:58,850 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@53b7f657
+2017-04-14 12:26:58,855 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:26:58,856 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:26:58,871 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:26:58,872 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:26:58,886 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:26:58,887 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:26:58,887 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:26:58,889 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@2d9caaeb
+2017-04-14 12:26:58,890 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:26:58,890 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:26:58,895 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:26:58,896 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:28:52,926 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:28:52,961 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:28:52,962 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:28:53,208 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@1c39680d
+2017-04-14 12:28:53,211 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:28:53,263 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:28:53,294 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:28:53,295 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:28:53,304 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:28:53,307 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:28:53,307 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:28:53,309 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@53b7f657
+2017-04-14 12:28:53,314 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:28:53,316 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:28:53,352 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:28:53,353 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:28:53,368 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:28:53,369 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:28:53,369 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:28:53,372 - test.java.TestBaseSetup -INFO - Error setting browser/appurl: [Ljava.lang.StackTraceElement;@2d9caaeb
+2017-04-14 12:28:53,380 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:28:53,381 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:28:53,402 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:28:53,403 - test.java.TestBaseSetup -INFO - FAIL: Tests weren't completed
+2017-04-14 12:31:11,657 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:31:11,672 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:31:11,672 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:31:18,420 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 12:31:18,497 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 12:31:21,576 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:31:21,595 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:31:21,606 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 12:31:21,613 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 12:31:21,615 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: MERCEDES-BENZ
+2017-04-14 12:31:22,004 - main.java.pageObjects.VehiclePage -INFO - Clicking: MERCEDES-BENZ
+2017-04-14 12:31:22,174 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: CLA
+2017-04-14 12:31:22,842 - main.java.pageObjects.ModelPage -INFO - Clicking: CLA
+starting at
+$32,400 MSRP
+2017-04-14 12:31:23,029 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 12:31:23,303 - main.java.pageObjects.TrimPage -INFO - Clicking: CLA250 Coupe
+$403 /mo*
+2017-04-14 12:31:29,043 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 12:31:29,292 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 12:31:29,293 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90630
+2017-04-14 12:31:35,580 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Fletcher Jones Motorcars
+3300 Jamboree Rd
+Newport Beach, California 92660
+14.9 mi
+2017-04-14 12:31:37,915 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 12:31:40,538 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 12:31:45,001 - main.java.pageObjects.ResidenceInfo -INFO - Enter Credit Application: Residence Information
+2017-04-14 12:31:57,905 - main.java.pageObjects.EmploymentInfo -INFO - Enter Credit Application: Employment Information
+2017-04-14 12:32:05,776 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 12:32:06,139 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:32:06,141 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:32:06,141 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:32:06,142 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:32:08,985 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 12:32:08,986 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 12:32:11,807 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:32:11,808 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:32:11,818 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 12:32:11,827 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 12:32:11,827 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: AUDI
+2017-04-14 12:32:11,937 - main.java.pageObjects.VehiclePage -INFO - Clicking: AUDI
+2017-04-14 12:32:12,112 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: A5
+2017-04-14 12:32:13,333 - main.java.pageObjects.ModelPage -INFO - Clicking: A5
+starting at
+$40,500 MSRP
+2017-04-14 12:32:13,460 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 12:32:13,911 - main.java.pageObjects.TrimPage -INFO - Clicking: 2dr Cpe Man Premium Plus
+$718 /mo*
+2017-04-14 12:32:19,335 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 12:32:19,504 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 12:32:19,504 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90210
+2017-04-14 12:32:25,551 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Audi Beverly Hills
+8850 Wilshire Blvd
+Beverly Hills, California 90211
+2.9 mi
+2017-04-14 12:32:27,869 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 12:32:30,336 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 12:32:55,595 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 12:32:55,770 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 12:32:55,772 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 12:32:55,772 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 12:32:55,773 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 12:32:58,106 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 12:32:58,107 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 12:33:00,272 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 12:33:00,273 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 12:33:00,286 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 12:33:00,293 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 12:33:00,294 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: BMW
+2017-04-14 12:33:00,774 - main.java.pageObjects.VehiclePage -INFO - Clicking: BMW
+2017-04-14 12:33:00,951 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: 3 Series
+2017-04-14 12:33:01,697 - main.java.pageObjects.ModelPage -INFO - Clicking: 3 Series
+starting at
+$33,450 MSRP
+2017-04-14 12:33:01,996 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 12:33:02,666 - main.java.pageObjects.TrimPage -INFO - Clicking: 330i Sedan
+$650 /mo*
+2017-04-14 12:33:08,198 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 12:33:08,340 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 12:33:08,340 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90401
+2017-04-14 12:33:14,167 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Santa Monica BMW
+1127 Santa Monica Blvd
+Santa Monica, California 90401
+0.8 mi
+2017-04-14 12:33:16,517 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 12:33:18,989 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 12:33:43,472 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 12:33:43,743 - test.java.TestBaseSetup -INFO - Closing Driver
