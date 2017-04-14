@@ -566,3 +566,151 @@ $32,400 MSRP
 2017-04-14 12:44:54,687 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
 2017-04-14 12:44:55,204 - main.java.pageObjects.TrimPage -INFO - Clicking: CLA250 Coupe
 $403 /mo*
+2017-04-14 13:03:14,504 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 13:03:14,679 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 13:03:14,744 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 13:03:26,531 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 13:03:26,573 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 13:03:32,595 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 13:03:32,616 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 13:03:32,633 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 13:03:32,643 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 13:03:32,647 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: MERCEDES-BENZ
+2017-04-14 13:03:33,465 - main.java.pageObjects.VehiclePage -INFO - Clicking: MERCEDES-BENZ
+2017-04-14 13:03:34,251 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: CLA
+2017-04-14 13:03:36,792 - main.java.pageObjects.ModelPage -INFO - Clicking: CLA
+starting at
+$32,400 MSRP
+2017-04-14 13:03:37,261 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 13:03:38,280 - main.java.pageObjects.TrimPage -INFO - Clicking: CLA250 Coupe
+$403 /mo*
+2017-04-14 13:03:44,904 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 13:03:45,494 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 13:03:45,495 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90630
+2017-04-14 13:03:53,513 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Fletcher Jones Motorcars
+3300 Jamboree Rd
+Newport Beach, California 92660
+14.9 mi
+2017-04-14 13:03:56,482 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 13:03:59,547 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 13:04:09,595 - main.java.pageObjects.ResidenceInfo -INFO - Enter Credit Application: Residence Information
+2017-04-14 13:04:24,504 - main.java.pageObjects.EmploymentInfo -INFO - Enter Credit Application: Employment Information
+2017-04-14 13:04:35,070 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 13:04:35,255 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 13:04:35,259 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 13:04:35,259 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 13:04:35,260 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 13:04:39,947 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 13:04:39,948 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 13:04:49,454 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 13:04:49,455 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 13:04:49,493 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 13:04:49,503 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 13:04:49,504 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: AUDI
+2017-04-14 13:04:49,944 - main.java.pageObjects.VehiclePage -INFO - Clicking: AUDI
+2017-04-14 13:04:50,334 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: A5
+2017-04-14 13:04:54,134 - main.java.pageObjects.ModelPage -INFO - Clicking: A5
+starting at
+$40,500 MSRP
+2017-04-14 13:04:54,713 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 13:04:56,587 - main.java.pageObjects.TrimPage -INFO - Clicking: 2dr Cpe Man Premium Plus
+$718 /mo*
+2017-04-14 13:08:57,354 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 13:08:57,415 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 13:08:57,415 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 13:09:09,220 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 13:09:09,247 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 13:09:14,944 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 13:09:14,997 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 13:09:15,014 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 13:09:15,026 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 13:09:15,030 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: MERCEDES-BENZ
+2017-04-14 13:09:15,689 - main.java.pageObjects.VehiclePage -INFO - Clicking: MERCEDES-BENZ
+2017-04-14 13:09:16,311 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: CLA
+2017-04-14 13:09:18,368 - main.java.pageObjects.ModelPage -INFO - Clicking: CLA
+starting at
+$32,400 MSRP
+2017-04-14 13:09:18,814 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 13:09:19,591 - main.java.pageObjects.TrimPage -INFO - Clicking: CLA250 Coupe
+$403 /mo*
+2017-04-14 13:09:26,251 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 13:09:26,711 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 13:09:26,712 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90630
+2017-04-14 13:09:34,992 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Fletcher Jones Motorcars
+3300 Jamboree Rd
+Newport Beach, California 92660
+14.9 mi
+2017-04-14 13:09:37,794 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 13:09:41,220 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 13:09:50,333 - main.java.pageObjects.ResidenceInfo -INFO - Enter Credit Application: Residence Information
+2017-04-14 13:10:06,355 - main.java.pageObjects.EmploymentInfo -INFO - Enter Credit Application: Employment Information
+2017-04-14 13:10:16,221 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 13:10:16,460 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 13:10:16,463 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 13:10:16,463 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 13:10:16,463 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 13:10:20,219 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 13:10:20,220 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 13:10:25,439 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 13:10:25,439 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 13:10:25,453 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 13:10:25,471 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 13:10:25,472 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: AUDI
+2017-04-14 13:10:25,677 - main.java.pageObjects.VehiclePage -INFO - Clicking: AUDI
+2017-04-14 13:10:26,135 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: A5
+2017-04-14 13:10:28,739 - main.java.pageObjects.ModelPage -INFO - Clicking: A5
+starting at
+$40,500 MSRP
+2017-04-14 13:10:29,121 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 13:10:30,151 - main.java.pageObjects.TrimPage -INFO - Clicking: 2dr Cpe Man Premium Plus
+$718 /mo*
+2017-04-14 13:10:36,485 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 13:10:37,123 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 13:10:37,124 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90210
+2017-04-14 13:10:44,636 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Audi Beverly Hills
+8850 Wilshire Blvd
+Beverly Hills, California 90211
+2.9 mi
+2017-04-14 13:10:47,551 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 13:10:50,936 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 13:11:26,369 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 13:11:26,509 - test.java.TestBaseSetup -INFO - Closing Driver
+2017-04-14 13:11:26,511 - test.java.TestBaseSetup -INFO - Setting browser: chrome
+2017-04-14 13:11:26,512 - test.java.TestBaseSetup -INFO - URL: https://apply.autogravity.com/vehicle
+2017-04-14 13:11:26,512 - test.utils.CommonUtils -INFO - Launching Chrome browser..
+2017-04-14 13:11:30,830 - test.utils.CommonUtils -INFO - Navigating to page: https://apply.autogravity.com/vehicle
+2017-04-14 13:11:30,831 - test.utils.CommonUtils -INFO - Navigating to: https://apply.autogravity.com/vehicle
+2017-04-14 13:11:37,602 - test.java.TestBaseSetup -INFO - Running Auto Gravity: Apply For Vehicle Financing
+2017-04-14 13:11:37,603 - main.java.pageObjects.VehiclePage -INFO - Verifying Login Page Title
+2017-04-14 13:11:37,624 - test.utils.CommonUtils -INFO - The title of the page is: AutoGravity: Choose a Car
+
+
+2017-04-14 13:11:37,646 - main.java.pageObjects.VehiclePage -INFO - Login Page Title: AutoGravity: Choose a Car
+2017-04-14 13:11:37,647 - main.java.pageObjects.VehiclePage -INFO - Selecting a Vehicle Make: BMW
+2017-04-14 13:11:39,331 - main.java.pageObjects.VehiclePage -INFO - Clicking: BMW
+2017-04-14 13:11:40,146 - main.java.pageObjects.ModelPage -INFO - Selecting a Vehicle Model: 3 Series
+2017-04-14 13:11:42,210 - main.java.pageObjects.ModelPage -INFO - Clicking: 3 Series
+starting at
+$33,450 MSRP
+2017-04-14 13:11:42,594 - main.java.pageObjects.TrimPage -INFO - Selecting a Vehicle Trim
+2017-04-14 13:11:43,921 - main.java.pageObjects.TrimPage -INFO - Clicking: 330i Sedan
+$650 /mo*
+2017-04-14 13:11:50,837 - main.java.pageObjects.TrimPage -INFO - Clicking Button: SELECT LOAN
+2017-04-14 13:11:51,389 - main.java.pageObjects.DealerPage -INFO - Selecting a Dealership
+2017-04-14 13:11:51,389 - main.java.pageObjects.DealerPage -INFO - Entering Zip: 90401
+2017-04-14 13:11:58,716 - main.java.pageObjects.DealerPage -INFO - Clicking Dealership: Santa Monica BMW
+1127 Santa Monica Blvd
+Santa Monica, California 90401
+0.8 mi
+2017-04-14 13:12:01,545 - main.java.pageObjects.CreditPage -INFO - Start Financing
+2017-04-14 13:12:05,363 - main.java.pageObjects.PersonalInfo -INFO - Enter Credit Application: Personal Information
+2017-04-14 13:12:46,371 - test.java.TestBaseSetup -INFO - shutting down driver
+2017-04-14 13:12:46,660 - test.java.TestBaseSetup -INFO - Closing Driver
